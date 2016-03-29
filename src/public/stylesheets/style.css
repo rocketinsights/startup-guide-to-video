@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+}
+
+form {
+  width: 40%;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+.progress {
+  margin-top: 20px;
+}
